@@ -11,6 +11,8 @@ A modern and responsive furniture landing page built with **React**, **Vite**, a
 - Tailwind CSS utility-first styling
 
 ## 📁 Project Structure
+
+```
 src/
 │
 ├── components/
